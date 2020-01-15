@@ -1,0 +1,14 @@
+
+xpython:S3776p"TRefactor this function to reduce its Cognitive Complexity from 81 to the 15 allowed.(δΪφόÿÿÿÿ8Λει›ϊ-
+=python:S125N"Remove this commented out code.(ΉΣ‡τ8Λει›ϊ-
+{python:S1542["\Rename function "_search_multihop_SP" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­€Ι8Λει›ϊ-
+Cpython:S125α"Remove this commented out code.(ά•Τύÿÿÿÿ8Λει›ϊ-
+Mpython:S1481*")Remove the unused local variable "val_d".(σΥΟνώÿÿÿÿ8Λει›ϊ-
+Ppython:S1481q",Remove the unused local variable "ans_list".(†¨Α»ύÿÿÿÿ8Λει›ϊ-
+}python:S1542"XRename function "translate_NL2LF" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ΒΒήόÿÿÿÿ8Λει›ϊ-
+=python:S125-"Remove this commented out code.(£λψΠ8Λει›ϊ-
+zpython:S3776"URefactor this function to reduce its Cognitive Complexity from 103 to the 15 allowed.(ΒΒήόÿÿÿÿ8Λει›ϊ-
+}python:S1542p"YRename function "_search_multi_PO" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(δΪφόÿÿÿÿ8Λει›ϊ-
+Hpython:S1481µ"(Remove the unused local variable "ans1".(¨Ηκ8Λει›ϊ-
+}python:S117~"_Rename this local variable "begin_with_NOT" to match the regular expression ^[_a-z][a-z0-9_]*$.(σ‹§γ8Λει›ϊ-
+=python:S125"Remove this commented out code.(ΖΤ¦8Λει›ϊ-

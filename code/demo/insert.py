@@ -32,4 +32,4 @@ def begin_insert_job(index_name, type_name, json_filepath, bulk_size=1000):
         bulk_insert(base_url, data)
 
 if __name__ == '__main__':
-    begin_insert_job("demo", "person", "./data/Person.json")
+    begin_insert_job("personkmqa", "person", "../../Person.json")
